@@ -1,4 +1,4 @@
 # todolist
 WIP \
-<img src="https://github.com/qli100/QQ-Bot/blob/main/gifs/chatgpt.gif](https://github.com/qli100/todolist/assets/65360209/b057f02f-465d-489f-9e08-5d6f04a81062" width=600 height=300>
+![image](https://github.com/qli100/todolist/assets/65360209/8f71938b-409e-4e47-8bb9-0988dbcaedfd)
 
