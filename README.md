@@ -1,5 +1,5 @@
 # todolist
-WIP 
+WIP \
 A web app that mimics a multi-level to-do list sticky note using the MERN stack.
 
 Create Read <br>
